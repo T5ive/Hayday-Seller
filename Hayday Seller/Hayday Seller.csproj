@@ -7,6 +7,7 @@
     <UseWindowsForms>true</UseWindowsForms>
     <ApplicationIcon>T5 - 32.ico</ApplicationIcon>
     <Company>TFive</Company>
+    <PackageProjectUrl>https://github.com/T5ive/Hayday-Seller</PackageProjectUrl>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
